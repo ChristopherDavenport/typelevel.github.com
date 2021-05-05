@@ -23,7 +23,7 @@ best-in-class moderation tools both personally and administratively, and builds 
 
 There are some shortcoming in that links in discord require being a member in the community, and we hope to better document tech support thats presently managed
 in chat to be handled via github discussions and/or issues to give more clear documentation than living in these chat locations.
-We will work together to find the approaches make resources available, and rely less on having the right link saved somewhere. 
+We will work together to find approaches to make resources more readily available, and rely less on having the right link saved somewhere. 
 This will, if managed correctly, leave us in a better place than we are today.
 
 ### [Join Us In Discord - https://discord.gg/XF3CXcMzqD](https://discord.gg/XF3CXcMzqD)
