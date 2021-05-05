@@ -14,7 +14,7 @@ and that the sense of community is fractured by being in seperate rooms, and dif
 Additionally, mobile support has completely deteriorated throughout the years.
 The only users who remain satisfied unconditionally are perhaps those who are using bridges.
 
-In that light we have decided to switch platforms from Gitter to Discord. 
+In that light we have decided to switch platforms on a trial basis from Gitter to Discord. After 3 months we will re-evaluate whether this new platform is meeting the communities needs effectively.
 
 Typelevel is a safe and inclusive community and we wish to leverage tools that align with our community driven goals. Discord will help allow us to build even better spaces. Discord is a modern platform with solid support across all devices, 
 best-in-class moderation tools both personally and administratively, and builds the Typelevel community as a whole rather than per repo silos.
