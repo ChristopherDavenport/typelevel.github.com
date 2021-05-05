@@ -19,7 +19,7 @@ In that light we have decided to switch platforms from Gitter to Discord.
 Typelevel is a safe and inclusive community and we wish to leverage tools that align with our community driven goals. Discord will help allow us to build even better spaces. Discord is a modern platform with solid support across all devices, 
 best-in-class moderation tools both personally and administratively, and builds the Typelevel community as a whole rather than per repo silos.
 
-There are some shortcomings, in discord, links require logging in and being a member of the community to view. We hope to better document tech support thats presently managed
+There are some shortcomings, in discord, links require logging in and being a member of the community to view. We hope to better document tech support that's presently managed
 in chat to be handled via github discussions and/or issues to give more clear documentation than living in these chat locations.
 We will work together to find approaches to make resources more readily available, and rely less on having the right link saved somewhere. 
 This will, if managed correctly, leave us in a better place than we are today.
